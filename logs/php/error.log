@@ -1,0 +1,4 @@
+[27-Feb-2023 04:57:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "Ok" in /Users/jasonaul/Local Sites/vg-news/app/public/test.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/jasonaul/Local Sites/vg-news/app/public/test.php on line 1
