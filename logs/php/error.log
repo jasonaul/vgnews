@@ -11,3 +11,13 @@ Stack trace:
 [03-Mar-2023 04:24:39 UTC] PHP Parse error:  syntax error, unexpected identifier "greeting" in /Users/jasonaul/Local Sites/vg-news/app/public/wp-content/themes/VGasm/index.php on line 7
 [03-Mar-2023 04:24:41 UTC] PHP Parse error:  syntax error, unexpected identifier "greeting" in /Users/jasonaul/Local Sites/vg-news/app/public/wp-content/themes/VGasm/index.php on line 7
 [03-Mar-2023 04:25:27 UTC] PHP Parse error:  syntax error, unexpected variable "$color", expecting ")" in /Users/jasonaul/Local Sites/vg-news/app/public/wp-content/themes/VGasm/index.php on line 2
+[03-Mar-2023 04:32:30 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Users/jasonaul/Local Sites/vg-news/app/public/wp-content/themes/VGasm/index.php:7
+Stack trace:
+#0 /Users/jasonaul/Local Sites/vg-news/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/jasonaul/Local Sites/vg-news/app/public/wp-blog-header.php(19): require_once('/Users/jasonaul...')
+#2 /Users/jasonaul/Local Sites/vg-news/app/public/index.php(17): require('/Users/jasonaul...')
+#3 {main}
+  thrown in /Users/jasonaul/Local Sites/vg-news/app/public/wp-content/themes/VGasm/index.php on line 7
+[03-Mar-2023 04:36:41 UTC] PHP Parse error:  syntax error, unexpected token ")" in /Users/jasonaul/Local Sites/vg-news/app/public/wp-content/themes/VGasm/index.php on line 7
+[03-Mar-2023 04:37:36 UTC] PHP Parse error:  syntax error, unexpected token ")" in /Users/jasonaul/Local Sites/vg-news/app/public/wp-content/themes/VGasm/index.php on line 7
+[03-Mar-2023 04:37:37 UTC] PHP Parse error:  syntax error, unexpected token ")" in /Users/jasonaul/Local Sites/vg-news/app/public/wp-content/themes/VGasm/index.php on line 7
