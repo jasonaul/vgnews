@@ -1,4 +1,4 @@
-
+<?php get_header(); ?>
 
 
 <!-- The below code is sample code for how to show all of the posts on one page, with links to their individual posts (so you can see just one post on one page) -->
@@ -14,7 +14,7 @@ while(have_posts()) {
 ?>
 
 
-
+<?php get_footer(); ?>
 
 
 
