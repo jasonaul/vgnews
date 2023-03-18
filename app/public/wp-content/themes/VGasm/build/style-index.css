@@ -1522,6 +1522,33 @@ body.admin-bar .search-overlay {
   margin-top: 12px;
 }
 
+@media only screen and (min-width: 50em) {
+    .nav-items-bottom {
+      flex-wrap: wrap;
+    }
+  }
+
+.nav-items-bottom {
+  position: relative;
+  overflow: hidden;
+  height: 22px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.nav-links-prime {
+  height: 100%;
+  font-weight: 900;
+  -webkit-box-align: center;
+  align-items: center;
+  text-transform: uppercase;
+  padding: 0px 6px;
+  transition: color 300ms ease 0s;
+  text-decoration: none;
+}
+
+
+
 
 /* Style the header */
 .header {

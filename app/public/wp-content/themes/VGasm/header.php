@@ -24,6 +24,33 @@
   <div class="header-alt"> | A Reader Is You.</div>
 </div>
 
+<div class="bottom-header">
+  <nav class="nav-items nav-items-bottom">
+    <a class="nav-link-home nav-links-prime" href="#">
+      <span>Home</span>
+    </a>
+    <a class="nav-link-latest nav-links-prime" href="#">
+      <span>Latest</span>
+    </a>
+    <a class="nav-link-news nav-links-prime" href="#">
+      <span>News</span>
+    </a>
+    <a class="nav-link-opinion nav-links-prime" href="#">
+      <span>Opinion</span>
+    </a>
+    <a class="nav-link-politics nav-links-prime" href="#">
+      <span>Politics</span>
+    </a>
+    <a class="nav-link-entertainment nav-links-prime" href="#">
+      <span>Entertainment</span>
+    </a>
+    <a class="nav-link-sports nav-links-prime" href="#">
+      <span>Sports</span>
+    </a>
+</nav>
+
+<div class="navbar-prime">
+
 
 <!-- 
 <header class="site-header">
