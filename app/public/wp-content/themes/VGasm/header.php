@@ -17,7 +17,7 @@
   <a href="#" title="VGasm" class="top-header-logo-img">
     <div class="top-header-div2">
       <div class="top-header-div3">
-        <img src=<?php echo get_theme_file_uri('/images/logo.png') ?> alt="logo" width="280" height="40">
+        <a href="<?php echo site_url()?>"><img src=<?php echo get_theme_file_uri('/images/logo.png') ?> alt="logo" width="280" height="40"></a>
       </div>
     </div>
   </a>
@@ -48,8 +48,10 @@
       <span>Sports</span>
     </a>
 </nav>
+</div>
 
 <div class="navbar-prime">
+</header>
 
 
 <!-- 
